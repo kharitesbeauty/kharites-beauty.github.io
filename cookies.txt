@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+webinstan.link	TRUE	/	FALSE	1999999999	smartbio	a6mfamgmr4amt93sch49hcnird
+image.starbiolink.com	TRUE	/	FALSE	1999999999	PHPSESSID	e8ecbdac59182d50b7db7711ee83aa88
+

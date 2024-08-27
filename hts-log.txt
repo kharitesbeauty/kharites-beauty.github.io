@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Jul 2024 23:51:27 at https://webinstan.link/kharites-beauty +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://webinstan.link/kharites-beauty -O1 "C:\My Web Sites\kharites" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:51:58	Error: 	"Not Found" (404) at link https://webinstan.link/uploads/galleries/1937673/f4b5818ea60613da1302ace1c20ae1b3.png (from https://webinstan.link/kharites-beauty)
+23:51:58	Error: 	"Forbidden" (403) at link https://webinstan.link/Kharites Beauty (from https://webinstan.link/kharites-beauty)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 66 links scanned, 63 files written (11632791 bytes overall) [10328650 bytes received at 333182 bytes/sec], 1974929 bytes transferred using HTTP compression in 27 files, ratio 30%, 5.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
